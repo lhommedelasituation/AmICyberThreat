@@ -1,1 +1,30 @@
-# AmICyberThreat
+# English 🇬🇧
+
+# Am I Cyber Threat ? ⛔
+
+Introducing my cutting-edge, highly advanced cyber threat assessment tool! This sophisticated piece of software will analyze your browsing history with the same level of scrutiny as a government surveillance agency, but with much less funding and far fewer legal constraints.
+
+This tool will determine whether you're a mere internet novice or a full-blown cyber criminal mastermind. So, don't be shy, give it a try !
+
+# To use it : 
+
+  - Create .txt file with your browser history in it.
+  - git clone this repo
+  - run this command : python3 amicyberthreat_EN.py
+  - Just input the path to your browsing history file and let the tool do the rest.
+
+# Français 🇫🇷
+
+# Suis-je une menace cyber ? ⛔
+
+Permettez-moi de vous présenter mon outil d'évaluation des menaces cybernétiques de pointe et hautement avancé ! Ce logiciel sophistiqué analysera votre historique de navigation avec le même niveau de rigueur qu'une agence de surveillance gouvernementale, mais avec beaucoup moins de financement et bien moins de contraintes légales.
+
+Cet outil déterminera si vous êtes un simple novice d'Internet ou un cybercriminel chevronné. Alors, n'hésitez pas, essayez-le !
+
+# Pour l'utiliser : 
+
+  - Créez un fichier .txt contenant votre historique de navigation.
+  - Clonez ce dépôt git.
+  - Exécutez cette commande : python3 amicyberthreat_FR.py
+  - Il vous suffit d'entrer le chemin d'accès à votre fichier d'historique de navigation et de laisser l'outil faire le reste.
+
