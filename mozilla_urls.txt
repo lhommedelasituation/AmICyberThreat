@@ -1,0 +1,9 @@
+https://www.addons.mozilla.org/en-US/firefox/addon/hackbartool/
+https://www.addons.mozilla.org/en-US/firefox/addon/tamper-data/
+https://www.addons.mozilla.org/fr/firefox/addon/cookie-manager/
+https://www.addons.mozilla.org/fr/firefox/addon/flagfox/
+https://www.addons.mozilla.org/fr/firefox/addon/httprequester/
+https://www.addons.mozilla.org/fr/firefox/addon/live-http-headers/
+https://www.addons.mozilla.org/fr/firefox/addon/modify-headers/
+https://www.addons.mozilla.org/ru/firefox/addon/foxyrecon/
+https://www.addons.mozilla.org/ru/firefox/addon/google-dork-builder/
