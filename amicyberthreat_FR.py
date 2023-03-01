@@ -48,7 +48,7 @@ for url in urls_in_history:
             score += 1
 
 if score == 0:
-    term = "un chat. Aucune menace détectée."
+    term = "chat, probablement. Aucune menace détectée."
 elif score <= 10:
     term = "novice"
 elif score <= 25:
