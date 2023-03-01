@@ -10,7 +10,7 @@ This tool will determine whether you're a mere internet novice or a full-blown c
 
   - Create .txt file with your browser history in it.
   - git clone this repo
-  - run this command : python3 amicyberthreat_EN.py
+  - run this command : `python3 amicyberthreat_EN.py`
   - Just input the path to your browsing history file and let the tool do the rest.
 
 # Français 🇫🇷
@@ -25,6 +25,6 @@ Cet outil déterminera si vous êtes un simple novice d'Internet ou un cybercrim
 
   - Créez un fichier .txt contenant votre historique de navigation.
   - Clonez ce dépôt git.
-  - Exécutez cette commande : python3 amicyberthreat_FR.py
+  - Exécutez cette commande : `python3 amicyberthreat_FR.py`
   - Il vous suffit d'entrer le chemin d'accès à votre fichier d'historique de navigation et de laisser l'outil faire le reste.
 
