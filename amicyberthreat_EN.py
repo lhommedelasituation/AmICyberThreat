@@ -49,7 +49,7 @@ for url in urls_in_history:
             score += 1
 
 if score == 0:
-    term = "a cat. No threat detected."
+    term = "cat, probably. No threat detected."
 elif score <= 10:
     term = "novice"
 elif score <= 25:
