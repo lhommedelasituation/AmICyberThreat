@@ -6,11 +6,20 @@ Introducing my cutting-edge, highly advanced cyber threat assessment tool! This 
 
 This tool will determine whether you're a mere internet novice or a full-blown cyber criminal mastermind. So, don't be shy, give it a try !
 
+# Installation :
+
+  - Clone this repo :
+  `git clone https://github.com/lhommedelasituation/AmICyberThreat`
+  
+  - Change the working directory to AmICyberThreat :
+  `cd AmICyberThreat`
+  
+  - Run this command : 
+  `python3 amicyberthreat_EN.py`
+  
 # Usage : 
 
-  - Create .txt file with your browser history in it.
-  - git clone this repo
-  - run this command : `python3 amicyberthreat_EN.py`
+  - Before using, create .txt file with your browser history in it.
   - Just input the path to your browsing history file and let the tool do the rest.
 
 # Français 🇫🇷
@@ -21,10 +30,19 @@ Permettez-moi de vous présenter mon outil d'évaluation des menaces cybernétiq
 
 Cet outil déterminera si vous êtes un simple novice d'Internet ou un cybercriminel chevronné. Alors, n'hésitez pas, essayez-le !
 
+# Installation :
+
+  - Clonez ce repo :
+  `git clone https://github.com/lhommedelasituation/AmICyberThreat`
+  
+  - Changez le répertoire de travail en AmICyberThreat :
+  `cd AmICyberThreat`
+  
+  - Exécutez cette commande : 
+  `python3 amicyberthreat_EN.py`
+
 # Usage : 
 
-  - Créez un fichier .txt contenant votre historique de navigation.
-  - Clonez ce dépôt git.
-  - Exécutez cette commande : `python3 amicyberthreat_FR.py`
+  - Avant utilisation, créez un fichier .txt contenant votre historique de navigation.
   - Il vous suffit d'entrer le chemin d'accès à votre fichier d'historique de navigation et de laisser l'outil faire le reste.
 
