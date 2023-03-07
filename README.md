@@ -6,7 +6,7 @@ Introducing my cutting-edge, highly advanced cyber threat assessment tool! This 
 
 This tool will determine whether you're a mere internet novice or a full-blown cyber criminal mastermind. So, don't be shy, give it a try !
 
-# To use it : 
+# Usage : 
 
   - Create .txt file with your browser history in it.
   - git clone this repo
@@ -21,7 +21,7 @@ Permettez-moi de vous présenter mon outil d'évaluation des menaces cybernétiq
 
 Cet outil déterminera si vous êtes un simple novice d'Internet ou un cybercriminel chevronné. Alors, n'hésitez pas, essayez-le !
 
-# Pour l'utiliser : 
+# Usage : 
 
   - Créez un fichier .txt contenant votre historique de navigation.
   - Clonez ce dépôt git.
