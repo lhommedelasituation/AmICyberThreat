@@ -39,7 +39,7 @@ Cet outil déterminera si vous êtes un simple novice d'Internet ou un cybercrim
   `cd AmICyberThreat`
   
   - Exécutez cette commande : 
-  `python3 amicyberthreat_EN.py`
+  `python3 amicyberthreat_FR.py`
 
 # Usage : 
 
